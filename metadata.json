@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulator HPP Kuliner",
+  "description": "Aplikasi perhitungan Harga Pokok Penjualan (HPP) detail untuk produk makanan, termasuk bahan baku, kemasan, tenaga kerja, dan overhead.",
+  "requestFramePermissions": []
+}
