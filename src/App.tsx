@@ -354,6 +354,9 @@ export default function App() {
                                   <option value="lt">lt</option>
                                   <option value="pcs">pcs</option>
                                   <option value="butir">butir</option>
+                                  <option value="tandan">tandan</option>
+                                  <option value="ikat">ikat</option>
+                                  <option value="pack">pack</option>
                                 </select>
                               </td>
                               <td className="px-4 py-3 text-right">
